@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">VirtualCabinet</string>
+
+    <string-array name="categories">
+        <item>Category</item>
+        <item>Hat</item>
+        <item>Glasses</item>
+        <item>T-Shirt</item>
+        <item>Coat</item>
+        <item>Trousers</item>
+        <item>Shoes</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="patterns">
+        <item>Pattern</item>
+        <item>Plain</item>
+        <item>Striped</item>
+        <item>Checkered</item>
+        <item>Other</item>
+    </string-array>
+</resources>
